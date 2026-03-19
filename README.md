@@ -6,6 +6,6 @@ This is a modular interaction system built so game developers can easily create 
 
 Below here are links to some important resources:
 
-Written Documentation of System:
+Written Documentation of System: https://docs.google.com/document/d/1LHW42G5-bXcMzkegxM6mAi3omG-n6tTqY5z2UiD0FqI/edit?usp=sharing
 
 Building your first interaction: https://youtu.be/qSqxilPDlEY
